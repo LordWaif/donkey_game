@@ -1,0 +1,11 @@
+Comandos
+
+W - Sobe escada
+A - Volta para trás
+D - Segue para frente
+Espaço - Pula do barril
+
+OBS: O som ambiente é muito grande para ser enviado pelo sigaa
+caso queira  basta baixa-lo no link abaixo e mover para a pasta sound
+
+https://drive.google.com/file/d/1NR9rNUFyPDIP4Lmje8ySbH-_AMYfmvZp/view?usp=sharing
